@@ -5,6 +5,8 @@
 [![PyPI version](https://badge.fury.io/py/PyFunctional.svg)](https://badge.fury.io/py/PyFunctional)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EntilZha/PyFunctional?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+Djalma  C.  Bina
+
 ## Features
 `PyFunctional` makes creating data pipelines easy by using chained functional operators. Here are a
 few examples of what it can do:
